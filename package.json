@@ -1,0 +1,18 @@
+{
+  "name": "pythonpayloadcontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launcher2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generate2.js && node launcher2.js;"
+  },
+  "author": "Richard Stanley",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "colors": "^1.3.1",
+    "python-shell": "^0.5.0",
+    "ws": "^6.0.0"
+  }
+}

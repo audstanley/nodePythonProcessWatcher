@@ -1,0 +1,9 @@
+[
+    { "process": "./python1.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 0  },
+    { "process": "./python2.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 1  },
+    { "process": "./python3.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 2  },
+    { "process": "./python4.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 3  },
+    { "process": "./python5.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 4  },
+    { "process": "./python6.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 5  },
+    { "process": "./python7.py", "args": "", "logging": true, "pythonInstance": "python", "runUnixSocket": true, "runPythonFile": true, "watch": true, "group": 6  }
+]
