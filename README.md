@@ -35,12 +35,19 @@ Once the module is installed, look closely at the process.json file
 ```
 
 **process:** *the full, or relaive path to the python script.*
+
 **args:** *arguments you want to send to the individual python script [not implemented]*
+
 **logging:** *print to the console or not [implemented]*
+
 **pythonInstance:** *version of python you want to run for that python script [not implemented]*
+
 **runUnixSocket:** *whether or not you want to run as a unix connected socket to all other processes [not implemented]*
+
 **runPythonFile:** *whether or not you want to run the python file(might want to disable a python script while debuggin) [not implemented]*
+
 **watch:** *watcher on or off [not implemented]*
+
 **group:** *which group this python process is clumped in with...recommended (for now) to be a unique number*
 
 
